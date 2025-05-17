@@ -3,13 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tiled/sampleMap.tmx",
+    "activeFile": "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/dungeon_tile1.tmx",
     "expandedProjectPaths": [
         "Tiled",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/dungeon_tile1.tmx": {
+            "scale": 3.16171875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 127.93674326661724,
+                "y": 127.93674326661726
+            }
+        },
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilemap_packed_dungeon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
         "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilesheet_dungeon.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -32,11 +44,14 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "Tiled/sampleMap.tmx"
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilemap_packed_dungeon.tsx",
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/dungeon_tile1.tmx"
     ],
     "project": "untitled.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilemap_packed_dungeon.tsx",
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/dungeon_tile1.tmx",
         "Tiled/sampleMap.tmx",
         "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilesheet_dungeon.tsx"
     ],
