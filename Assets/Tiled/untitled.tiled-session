@@ -35,9 +35,10 @@
         "Tiled/sampleMap.tmx"
     ],
     "project": "untitled.tiled-project",
+    "property.type": "string",
     "recentFiles": [
-        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilesheet_dungeon.tsx",
-        "Tiled/sampleMap.tmx"
+        "Tiled/sampleMap.tmx",
+        "C:/Users/Mariacarolina/Documents/comp1151/COMP1151_Tilemap/comp1151prac-tilemapgame-butadieno/Assets/TilemapGame/tilesheet_dungeon.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
