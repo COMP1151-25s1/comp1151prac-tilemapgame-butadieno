@@ -246,8 +246,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 16
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
@@ -503,10 +503,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 761114696}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -350.2, y: -138.5}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -350.2, y: 10}
+  m_SizeDelta: {x: -600, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1913366666
 MonoBehaviour:
@@ -631,16 +631,24 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1913366666}
     - target: {fileID: 4533065998137178967, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
+      propertyPath: m_Size.x
+      value: 0.9075019
+      objectReference: {fileID: 0}
+    - target: {fileID: 4533065998137178967, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
+      propertyPath: m_Size.y
+      value: 1.0120592
+      objectReference: {fileID: 0}
+    - target: {fileID: 4533065998137178967, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.45375094
+      objectReference: {fileID: 0}
+    - target: {fileID: 4533065998137178967, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.5060296
       objectReference: {fileID: 0}
     - target: {fileID: 6215079797964666765, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 6215079797964666765, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
-      propertyPath: m_Layer
-      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7495099632906085229, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -684,7 +692,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7503337226400999349, guid: 31ebefa86b1903b47ae9522effa29b2e, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
